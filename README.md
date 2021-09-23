@@ -3,7 +3,7 @@ Binary Perceptron written for CS449 at Clarkson University. The uses the simple 
 
 ## Run
 
-`python3 main.py`
+`python3 main.py training-data.txt`
 
 ## Dependencies 
 
